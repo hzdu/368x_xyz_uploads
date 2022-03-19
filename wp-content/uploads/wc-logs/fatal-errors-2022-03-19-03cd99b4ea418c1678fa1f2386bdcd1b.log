@@ -1,0 +1,4 @@
+2022-03-19T08:06:39+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in /home/suitpro.xyz/public_html/wp-content/plugins/backupbuddy/classes/core.php on line 3870
+
+2022-03-19T08:07:15+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 1052672 bytes) in /home/suitpro.xyz/public_html/wp-content/plugins/backupbuddy/classes/core.php on line 3952
+

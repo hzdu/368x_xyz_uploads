@@ -1,0 +1,54 @@
+2022-03-01T23:03:36+00:00 CRITICAL Uncaught RuntimeException: Unable to claim actions. Database error. in /devdata/wwwroot/alberton.xyz/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /devdata/wwwroot/alberton.xyz/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions()
+#1 /devdata/wwwroot/alberton.xyz/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim()
+#2 /devdata/wwwroot/alberton.xyz/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch()
+#3 /devdata/wwwroot/alberton.xyz/wp-includes/class-wp-hook.php(307): ActionScheduler_QueueRunner->run()
+#4 /devdata/wwwroot/alberton.xyz/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#5 /devdata/wwwroot/alberton.xyz/wp-includes/plugin.php(522): WP_Ho in /devdata/wwwroot/alberton.xyz/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php on line 683
+
+2022-03-01T23:06:29+00:00 CRITICAL Uncaught RuntimeException: Unable to claim actions. Database error. in /devdata/wwwroot/alberton.xyz/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /devdata/wwwroot/alberton.xyz/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions()
+#1 /devdata/wwwroot/alberton.xyz/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim()
+#2 /devdata/wwwroot/alberton.xyz/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch()
+#3 /devdata/wwwroot/alberton.xyz/wp-includes/class-wp-hook.php(307): ActionScheduler_QueueRunner->run()
+#4 /devdata/wwwroot/alberton.xyz/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#5 /devdata/wwwroot/alberton.xyz/wp-includes/plugin.php(522): WP_Ho in /devdata/wwwroot/alberton.xyz/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php on line 683
+
+2022-03-01T23:07:42+00:00 CRITICAL Uncaught RuntimeException: Unable to claim actions. Database error. in /devdata/wwwroot/alberton.xyz/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /devdata/wwwroot/alberton.xyz/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions()
+#1 /devdata/wwwroot/alberton.xyz/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim()
+#2 /devdata/wwwroot/alberton.xyz/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch()
+#3 /devdata/wwwroot/alberton.xyz/wp-includes/class-wp-hook.php(307): ActionScheduler_QueueRunner->run()
+#4 /devdata/wwwroot/alberton.xyz/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#5 /devdata/wwwroot/alberton.xyz/wp-includes/plugin.php(522): WP_Ho in /devdata/wwwroot/alberton.xyz/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php on line 683
+
+2022-03-01T23:08:43+00:00 CRITICAL Uncaught RuntimeException: Unable to claim actions. Database error. in /devdata/wwwroot/alberton.xyz/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /devdata/wwwroot/alberton.xyz/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions()
+#1 /devdata/wwwroot/alberton.xyz/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim()
+#2 /devdata/wwwroot/alberton.xyz/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch()
+#3 /devdata/wwwroot/alberton.xyz/wp-includes/class-wp-hook.php(307): ActionScheduler_QueueRunner->run()
+#4 /devdata/wwwroot/alberton.xyz/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#5 /devdata/wwwroot/alberton.xyz/wp-includes/plugin.php(522): WP_Ho in /devdata/wwwroot/alberton.xyz/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php on line 683
+
+2022-03-01T23:09:47+00:00 CRITICAL Uncaught RuntimeException: Unable to claim actions. Database error. in /devdata/wwwroot/alberton.xyz/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /devdata/wwwroot/alberton.xyz/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions()
+#1 /devdata/wwwroot/alberton.xyz/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim()
+#2 /devdata/wwwroot/alberton.xyz/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch()
+#3 /devdata/wwwroot/alberton.xyz/wp-includes/class-wp-hook.php(307): ActionScheduler_QueueRunner->run()
+#4 /devdata/wwwroot/alberton.xyz/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#5 /devdata/wwwroot/alberton.xyz/wp-includes/plugin.php(522): WP_Ho in /devdata/wwwroot/alberton.xyz/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php on line 683
+
+2022-03-01T23:10:55+00:00 CRITICAL Uncaught RuntimeException: Unable to claim actions. Database error. in /devdata/wwwroot/alberton.xyz/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:683
+Stack trace:
+#0 /devdata/wwwroot/alberton.xyz/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(597): ActionScheduler_DBStore->claim_actions()
+#1 /devdata/wwwroot/alberton.xyz/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim()
+#2 /devdata/wwwroot/alberton.xyz/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch()
+#3 /devdata/wwwroot/alberton.xyz/wp-includes/class-wp-hook.php(307): ActionScheduler_QueueRunner->run()
+#4 /devdata/wwwroot/alberton.xyz/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#5 /devdata/wwwroot/alberton.xyz/wp-includes/plugin.php(522): WP_Ho in /devdata/wwwroot/alberton.xyz/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php on line 683
+

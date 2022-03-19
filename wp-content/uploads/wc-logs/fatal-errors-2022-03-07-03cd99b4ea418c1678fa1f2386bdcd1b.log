@@ -1,0 +1,10 @@
+2022-03-07T07:39:17+00:00 CRITICAL Uncaught Error: Call to a member function get_attributes() on bool in /www/wwwroot/alberton.xyz/wp-content/plugins/veb-variation-swatches-pro/includes/class-veb-variation-swatches-pro-product-meta.php:74
+Stack trace:
+#0 /www/wwwroot/alberton.xyz/wp-content/plugins/veb-variation-swatches-pro/includes/class-veb-variation-swatches-pro-product-meta.php(304): Veb_Variation_Swatches_Pro_Product_Meta->panel_contents()
+#1 /www/wwwroot/alberton.xyz/wp-includes/class-wp-hook.php(307): Veb_Variation_Swatches_Pro_Product_Meta->load_product_attributes()
+#2 /www/wwwroot/alberton.xyz/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#3 /www/wwwroot/alberton.xyz/wp-includes/plugin.php(474): WP_Hook->do_action()
+#4 /www/wwwroot/alberton.xyz/wp-admin/admin-ajax.php(187): do_action()
+#5 {main}
+  thrown in /www/wwwroot/alberton.xyz/wp-content/plugins/veb-variation-swatches-pro/includes/class-veb-variation-swatches-pro-product-meta.php on line 74
+
