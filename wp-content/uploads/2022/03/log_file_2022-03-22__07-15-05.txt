@@ -1,0 +1,18 @@
+
+---Downloaded files---
+The import files for: Shoptimizer Demo Data were successfully downloaded!
+Initial max execution time = 60
+Files info:
+Site URL = https://368x.xyz
+Data file = /home/368x.xyz/public_html/wp-content/uploads/2022/03/demo-content-import-file_2022-03-22__07-15-05.xml
+Widget file = /home/368x.xyz/public_html/wp-content/uploads/2022/03/demo-widgets-import-file_2022-03-22__07-15-05.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
